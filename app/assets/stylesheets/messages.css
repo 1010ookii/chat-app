@@ -72,9 +72,6 @@ a {
   padding: 46px 40px 0;
   overflow: scroll;
 }
-.message {
-  margin-bottom: 40px;
-}
 .upper-message {
   margin: 10px 0;
   display: flex;
@@ -91,6 +88,7 @@ a {
 .message-text {
   color: #434A54;
   font-size: 14px;
+  margin-bottom: 40px;
 }
 
 .form {
